@@ -1,0 +1,12 @@
+{
+  "name": "devim/symfony4-rpc-server-bundle",
+  "type": "symfony-bundle",
+  "description": "Symfony RPC Server Bundle",
+  "require": {
+    "php": ">=7.0.0",
+    "symfony/framework-bundle": "^4.0"
+  },
+  "autoload": {
+    "psr-4": { "Devim\\Component\\RpcServer\\": "" }
+  }
+}
